@@ -32,6 +32,5 @@ class Db
         $query = $this->conn->query($sql);
         return $query->fetchAll(PDO::FETCH_ASSOC);
     }
-
     
 }
