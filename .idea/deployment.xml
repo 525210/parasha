@@ -5,7 +5,7 @@
       <paths name="backend.mine.nu">
         <serverdata>
           <mappings>
-            <mapping deploy="/var/www/html/backend.mine.nu" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/var/www/html/parasha.mine.nu" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
